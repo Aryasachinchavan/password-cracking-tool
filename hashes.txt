@@ -1,0 +1,6 @@
+Put hashed passwords (example only):
+
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+ef92b778ba5ca3a4d4b3d9c6e8a9c1f3a2b8c0d1e4f6a7b8c9d0e1f2a3b4c5d6
+
+👉 (These are example SHA-256 style hashes — you can replace them later)
