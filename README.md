@@ -25,3 +25,14 @@ Run the script:
 python3 password_cracker_tool.py
 or 
 python3 password_cracker.py
+
+---
+
+## ⚠️ Disclaimer
+This tool is strictly for **educational use only**. Do not use on unauthorized systems.
+
+---
+
+## 👨‍💻 Author
+Arya Sachin Chavan  
+Cybersecurity Enthusiast
